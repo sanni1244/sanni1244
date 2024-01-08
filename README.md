@@ -36,4 +36,4 @@ I am a frontend developer and a data analyst.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sanni1244/myportfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=myportfolio&title_color=facc15&text_color=84cc16&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sanni1244/myportfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=myportfolio&title_color=facc15&text_color=84cc16&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a>This is my portfolio highlighting my works</div><br /><br /><br /><br /><br /><br /><br />
