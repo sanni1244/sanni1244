@@ -34,6 +34,17 @@ I am a frontend developer and a data analyst.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sanni1244/portfolio_web" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div style="width: 100%; text-align: center;">
+    <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="GitHub repository for portfolio_web">
+    </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/sanni1244/portfolio_ds" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_ds&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div style="width: 100%; text-align: center;">
+    <a href="https://github.com/sanni1244/portfolio_ds" style="float: left;">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_ds&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="GitHub repository for portfolio_ds">
+    </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
