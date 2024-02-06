@@ -44,6 +44,7 @@ This repository contains the code for my personal portfolio website.
     <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000220&hide_border=true&locale=en" alt="GitHub repository for portfolio_web">
     </a>
+    <h3>Hell, some random text</h3>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
