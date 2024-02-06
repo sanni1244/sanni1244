@@ -38,9 +38,6 @@ I am a frontend developer and a data analyst.
 <b>Top Repositories</b>
 
 # Portfolio Web
-
-This repository contains the code for my personal portfolio website.
-
 <div style="width: 100%; text-align: center;" content="Hel2l, some random text"> 
     <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">  
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000220&hide_border=true&locale=en" alt="GitHub repository for portfolio_web">
@@ -50,14 +47,89 @@ This repository contains the code for my personal portfolio website.
 
 
 # Portfolio Data Analysis
-
-This repository contains projects and code related to my data analysis portfolio.
-
 <div style="width: 100%; text-align: center;">
     <a href="https://github.com/sanni1244/portfolio_da" style="float: left;">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_da&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="GitHub repository for portfolio_da">
     </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Your Name]'s GitHub Page</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333;">
+
+  <!-- Header -->
+  <h1 style="text-align: center; color: #007bff;">Welcome to [Your Name]'s GitHub Page!</h1>
+  
+  <!-- About Me -->
+  <h2>About Me</h2>
+  <p>Hi there! I'm <strong>[Your Name]</strong>, a passionate data analyst and web developer. I love exploring data, building insightful visualizations, and creating web applications that make an impact.</p>
+  
+  <!-- Projects -->
+  <h2>Projects</h2>
+  
+  <!-- Data Analysis Projects -->
+  <details>
+    <summary>Data Analysis Projects</summary>
+    <ul>
+      <li>
+        <strong>COVID-19 Data Dashboard</strong><br>
+        <em>Description:</em> Analyzed global COVID-19 data to visualize infection rates, fatality rates, and trends over time.<br>
+        <em>Tools:</em> Python, Pandas, Matplotlib, Plotly
+      </li>
+      <li>
+        <strong>Stock Market Analysis Tool</strong><br>
+        <em>Description:</em> Developed a tool to analyze stock market data, identify trends, and make investment decisions.<br>
+        <em>Tools:</em> Python, Pandas, NumPy, Jupyter Notebooks
+      </li>
+    </ul>
+  </details>
+  
+  <!-- Web Development Projects -->
+  <details>
+    <summary>Web Development Projects</summary>
+    <ul>
+      <li>
+        <strong>Personal Portfolio Website</strong><br>
+        <em>Description:</em> Built my personal portfolio website to showcase my projects, skills, and resume.<br>
+        <em>Technologies:</em> HTML, CSS, JavaScript, Bootstrap
+      </li>
+      <li>
+        <strong>E-commerce Platform</strong><br>
+        <em>Description:</em> Developed an e-commerce platform for a local business to sell products online.<br>
+        <em>Technologies:</em> HTML, CSS, JavaScript, React.js, Node.js, MongoDB
+      </li>
+    </ul>
+  </details>
+  
+  <!-- Skills -->
+  <h2>Skills</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><span style="background-color: #28a745; color: #fff; padding: 5px 10px; border-radius: 5px;">Data Analysis</span></li>
+    <li><span style="background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Data Visualization</span></li>
+    <li><span style="background-color: #ffc107; color: #333; padding: 5px 10px; border-radius: 5px;">Python Programming</span></li>
+    <li><span style="background-color: #17a2b8; color: #fff; padding: 5px 10px; border-radius: 5px;">Web Development</span></li>
+    <li><span style="background-color: #343a40; color: #fff; padding: 5px 10px; border-radius: 5px;">HTML/CSS/JavaScript</span></li>
+    <li><span style="background-color: #6610f2; color: #fff; padding: 5px 10px; border-radius: 5px;">React.js</span></li>
+    <li><span style="background-color: #6c757d; color: #fff; padding: 5px 10px; border-radius: 5px;">SQL</span></li>
+    <li><span style="background-color: #6f42c1; color: #fff; padding: 5px 10px; border-radius: 5px;">
+
 
 
