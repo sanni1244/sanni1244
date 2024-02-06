@@ -8,7 +8,7 @@ I am a frontend developer and a data analyst.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Portfolio](http://sanni1244.github.io/portfolio_web/)
-* 🖥️  See my portfolio at [Portfolio](http://sanni1244.github.io/portfolio_da/)
+* 👨‍💻  See my portfolio at [Portfolio](http://sanni1244.github.io/portfolio_da/)
 * ✉️  You can contact me at [astro8va@gmail.com](mailto:astro8va@gmail.com)
 * 🧠  I'm learning React and Node JS
 * 🤝  I'm open to collaborating on React Projects
@@ -53,43 +53,3 @@ I am a frontend developer and a data analyst.
     </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
-
-
-
-
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanni1244&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/sanni1244)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanni1244&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/sanni1244)
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanni1244&bg_color=000000&color=14b8a6&line=14b8a6&point=ffffff&hide_border=true)](https://github.com/sanni1244)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanni1244&color=14b8a6&style=flat-square)
-
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sanni1244&theme=gruvbox)](https://github.com/sanni1244)
-
-
-![Snake animation](https://github.com/sanni1244/sanni1244/blob/output/github-contribution-grid-snake.svg)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=example-repo&theme=radical)](https://github.com/sanni1244/example-repo)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanni1244&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
-
-
-
