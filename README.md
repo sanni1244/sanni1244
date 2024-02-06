@@ -32,7 +32,13 @@ I am a frontend developer and a data analyst.
 
 <a href="https://github.com/sanni1244" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanni1244&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+
 <b>Top Repositories</b>
+
+# Portfolio Web
+
+This repository contains the code for my personal portfolio website.
 
 <div style="width: 100%; text-align: center;">
     <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">
@@ -41,10 +47,16 @@ I am a frontend developer and a data analyst.
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
+
+# Portfolio Data Analysis
+
+This repository contains projects and code related to my data analysis portfolio.
+
 <div style="width: 100%; text-align: center;">
     <a href="https://github.com/sanni1244/portfolio_da" style="float: left;">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_da&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="GitHub repository for portfolio_da">
     </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+
 
