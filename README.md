@@ -7,8 +7,8 @@ Frontend Developer
 I am a frontend developer and a data analyst.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Portfolio](http://sanni1244.github.io/portfolio_web/)
-* 👨‍💻  See my portfolio at [Portfolio](http://sanni1244.github.io/portfolio_da/)
+* 🖥️  See my Web portfolio at [Portfolio](http://sanni1244.github.io/portfolio_web/)
+* 👨‍💻  See my Data analyst portfolio at [Portfolio](http://sanni1244.github.io/portfolio_da/)
 * ✉️  You can contact me at [astro8va@gmail.com](mailto:astro8va@gmail.com)
 * 🧠  I'm learning React and Node JS
 * 🤝  I'm open to collaborating on React Projects
