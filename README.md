@@ -40,11 +40,11 @@ I am a frontend developer and a data analyst.
 
 This repository contains the code for my personal portfolio website.
 
-<div style="width: 100%; text-align: center;">
-    <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">
+<div style="width: 100%; text-align: center;" content="Hel2l, some random text">  Hel1l, some random text
+    <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">  Hel4l, some random text
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000220&hide_border=true&locale=en" alt="GitHub repository for portfolio_web">
     </a>
-    <h3>Hell, some random text</h3>
+    Hel3l, some random text
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
