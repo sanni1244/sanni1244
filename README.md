@@ -15,74 +15,122 @@ I am a frontend developer and a data analyst.
 
 ### Skills
 
-<div class="skills-container">
-  <h2 class="skills-title">Technologies & Tools</h2>
-  <div class="skills-icons">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
+</p>
+
+
+<div class="socials-container">
+  <div class="socials">
+    <a href="https://www.github.com/sanni1244" target="_blank" rel="noreferrer" class="social-icon">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
+    <a href="https://www.linkedin.com/in/opelin" target="_blank" rel="noreferrer" class="social-icon">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" />
     </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" />
+    <a href="https://www.x.com/Sanniopeyemiola" target="_blank" rel="noreferrer" class="social-icon">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" />
     </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" />
+  </div>
+
+  <div class="badges">
+    <h3>My GitHub Stats</h3>
+    <a href="http://www.github.com/sanni1244" class="badge">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanni1244&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" />
+    <a href="https://github.com/sanni1244" class="badge">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanni1244&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" />
-    </a>
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer" class="skill-icon">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" />
-    </a>
+    <h3>Top Repositories</h3>
+    <div class="repositories">
+      <a href="https://github.com/sanni1244/portfolio_web" class="repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000220&hide_border=true&locale=en" alt="Portfolio Web" />
+      </a>
+      <a href="https://github.com/sanni1244/portfolio_da" class="repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_da&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="Portfolio Data Analyst" />
+      </a>
+    </div>
   </div>
 </div>
 
+<style>
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #121212;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
 
+.socials-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
 
+.socials {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+}
 
-### Socials
+.social-icon img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease;
+}
 
-<p align="left"> <a href="https://www.github.com/sanni1244" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/opelin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Sanniopeyemiola" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+.social-icon:hover img {
+  transform: scale(1.1);
+}
 
-### Badges
+.badges {
+  text-align: center;
+}
 
-<b>My GitHub Stats</b>
+h3 {
+  color: #14b8a6;
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
 
-<a href="http://www.github.com/sanni1244"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanni1244&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+.badge img {
+  width: 100%;
+  max-width: 400px;
+  margin: 10px;
+  border-radius: 8px;
+}
 
-<a href="https://github.com/sanni1244" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanni1244&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+.repositories {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
 
+.repo img {
+  width: 100%;
+  max-width: 400px;
+  margin: 10px;
+  border-radius: 8px;
+}
 
+.repo:hover img {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
 
-<b>Top Repositories</b>
+</style>
 
-# Web developer Portfolio
-<div style="width: 100%; text-align: center;" content="Hel2l, some random text"> 
-    <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">  
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000220&hide_border=true&locale=en" alt="GitHub repository for portfolio_web">
-    </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-
-
-# Data Analyst Portfolio
-<div style="width: 100%; text-align: center;">
-    <a href="https://github.com/sanni1244/portfolio_da" style="float: left;">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_da&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="GitHub repository for portfolio_da">
-    </a>
-</div>
 <br /><br /><br /><br /><br /><br /><br />
