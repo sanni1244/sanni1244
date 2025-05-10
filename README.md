@@ -1,13 +1,11 @@
 Sanni Opeyemi
 =====================================================================================================================================
 
-# Fullstack Developer and Data Analyst
+# Full-stack Developer and Data Analyst
 
 * 🌍  I'm based in Lagos, Nigeria.
-* 🖥️  See my Web portfolio at [Portfolio](http://sanni1244.github.io/portfolio_web/)
-* 👨‍💻  See my Data analyst portfolio at [Portfolio](http://sanni1244.github.io/portfolio_da/)
-* ✉️  You can contact me at [astro8va@gmail.com](mailto:astro8va@gmail.com)
-* 🧠  Proficient in React and Node JS.
+* ✉️  You can contact me at [sanniopeyemiolayinka@gmail.com](mailto:sanniopeyemiolayinka@gmail.com)
+* 🧠  Proficient in React, NextJs and Node JS.
 * 🤝  I'm open to collaborating on React Projects.
 
 ### Skills
@@ -27,8 +25,8 @@ Sanni Opeyemi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sanni1244" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/opelin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Sanniopeyemiola" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
+<p align="left"> <a href="https://www.github.com/sanni1244" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/opelin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -37,23 +35,3 @@ Sanni Opeyemi
 
 <a href="https://github.com/sanni1244" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanni1244&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-<b>Top Repositories</b>
-
-# Web developer Portfolio
-<div style="width: 100%; text-align: center;" content="Hel2l, some random text"> 
-    <a href="https://github.com/sanni1244/portfolio_web" style="float: left;">  
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_web&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000220&hide_border=true&locale=en" alt="GitHub repository for portfolio_web">
-    </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-
-
-# Data Analyst Portfolio
-<div style="width: 100%; text-align: center;">
-    <a href="https://github.com/sanni1244/portfolio_da" style="float: left;">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanni1244&repo=portfolio_da&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" alt="GitHub repository for portfolio_da">
-    </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
