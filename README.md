@@ -1,7 +1,7 @@
 Sanni Opeyemi
 =====================================================================================================================================
 
-# Fullstack and Data Analyst
+# Fullstack Developer and Data Analyst
 
 * 🌍  I'm based in Lagos, Nigeria.
 * 🖥️  See my Web portfolio at [Portfolio](http://sanni1244.github.io/portfolio_web/)
