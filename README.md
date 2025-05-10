@@ -1,7 +1,7 @@
 Sanni Opeyemi
 =====================================================================================================================================
 
-# Full-stack Developer and Data Analyst
+# Full-Stack Developer and Data Analyst
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [sanniopeyemiolayinka@gmail.com](mailto:sanniopeyemiolayinka@gmail.com)
