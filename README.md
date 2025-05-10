@@ -1,10 +1,7 @@
 Sanni Opeyemi
 =====================================================================================================================================
 
-Frontend Developer
-------------------
-
-I am a frontend developer and a data analyst.
+# FULLSTACK DEVELOPER AND DATA ANALYST
 
 * 🌍  I'm based in Lagos, Nigeria.
 * 🖥️  See my Web portfolio at [Portfolio](http://sanni1244.github.io/portfolio_web/)
